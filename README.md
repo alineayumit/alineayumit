@@ -55,14 +55,7 @@ Tenho interesse em projetos que conectem **dados, saúde, tecnologia e inovaçã
 
 ---
 
-## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alineayumit&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alineayumit&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🌱 Minha jornada
 
